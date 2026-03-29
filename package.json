@@ -1,0 +1,14 @@
+{
+  "name": "bhaiya-backend",
+  "version": "1.0.0",
+  "description": "Bhaiya Restaurant – Food & Hall Booking Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node seed.js"
+  },
+  "keywords": ["restaurant", "booking", "mongodb", "express"],
+  "author": "Bhaiya Restaurant",
+  "license": "ISC"
+}
